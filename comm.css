@@ -5,13 +5,16 @@ body, video {
 img {
   width: 100%;
 }
+.logo {
+  margin: 0 0 28px 0;
+}
 .btnOuter {
   margin: 68px auto;
   max-width: fit-content;
 }
 button {
   display: block;
-  width: 168px;
+  width: 198px;
   line-height:68px;
   text-align: center;
   font-size: 20px;
